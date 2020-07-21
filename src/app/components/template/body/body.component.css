@@ -1,0 +1,18 @@
+
+body h1{
+    text-align: center;
+    margin-top: 20px;
+}
+
+body .foto1, .foto2, .foto3, .foto4, .foto5, .foto6 {
+
+    width: 200px;
+    height: 200px;
+    margin-left: 190px; 
+
+}
+
+body nav {
+    margin-top: 40px;
+
+}

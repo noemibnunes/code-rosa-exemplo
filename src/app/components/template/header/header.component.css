@@ -1,0 +1,55 @@
+.header{
+
+    display: flex;
+    align-items: center;
+    height: 60px;
+    background-color: white;
+    
+}
+
+.header a {
+
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.header .logo {
+    
+    margin-top: 15px;
+    max-height: 50px;
+    margin-bottom: 15px;
+    margin-left: 30px;
+
+}
+
+#menu ul {
+    list-style:none;
+    margin-left: 800px;
+}
+
+#menu ul li {
+
+    display: inline;
+}
+
+#menu ul li a {
+    padding: 2px 20px;
+    display: inline-block;
+    color: rgb(241, 178, 204);
+    
+}
+
+.banner {
+   
+    display: inline;
+    align-items: center;
+
+}
+
+.banner #banner {
+
+    width: 1349px;
+    height: 500px;
+}
+

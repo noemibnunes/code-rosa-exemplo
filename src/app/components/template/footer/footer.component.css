@@ -1,0 +1,16 @@
+.footer{
+
+    display: flex;
+    align-items: center;
+    height: 100px;
+    background-color: darksalmon;
+
+}
+
+.footer .rds {
+    
+    width: 220px;
+    height: 130px;
+    margin-top: 10px;
+    margin-left: 550px;
+}
